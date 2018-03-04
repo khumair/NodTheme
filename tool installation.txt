@@ -1,0 +1,18 @@
+for installing NodeJS
+* npm init
+
+For installing Bootstrap
+- npm install bootstrap@4.0.0-beta font-awesome jquery popper.js --save
+
+then we need to install gulp for sass and browser sync
+- npm install gulp gulp-sass browser-sync --save-dev
+
+then install gulp for global access
+- npm install -g -gulp-cli
+
+after that create folder for source files
+with in source file we need to create sass folder.
+with in sass folder create style.sass file
+-src
+  -sass
+    -style.sass
