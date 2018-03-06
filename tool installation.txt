@@ -16,3 +16,14 @@ with in sass folder create style.sass file
 -src
   -sass
     -style.sass
+    Hello  really appreciate your work
+    I am looking this for 3 months
+    I have few question regarding your product.
+    I am umair from Finland. we are small food delivery company in offices/home. we are paying driver per KM
+    or some are on fix wages.
+     Do you have this system in your current app ? if not how much we have for this feature?
+
+    - I have to pay for once for the app or per user
+    - same for merchandise and Driver APP
+    - if i need few changes specially add same reports how much you will charge for that
+  
