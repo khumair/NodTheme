@@ -29,3 +29,23 @@ body{
     position: absolute;
   }
 }
+#cardSection{
+
+.zoom{
+  position: relative;
+  overflow: hidden;
+}
+.zoom:hover img{
+  transform: scale(1.1);
+}
+.zoom :hover {
+  background: $primary-overlay;
+}
+.zoom img{
+  transition: all 0.3s;
+  width: 120px;
+  height: 120px;
+
+}
+
+}
